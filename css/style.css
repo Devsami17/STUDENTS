@@ -1462,10 +1462,6 @@ header .logo {
   position: relative;
 }
 
-#portfolioBtn:hover {
-  color: #fff;
-  border-color: #fff;
-}
 
 #portfolioBtn span {
   display: block;
